@@ -1,12 +1,12 @@
 ---
-title: "PA1_template.Rmd"
+title: "PA1_template.md"
 author: "Jacob Asariah"
 date: "August 23, 2018"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, results="hide")
 ```
 
 # Reproducible Research Course Project 1
